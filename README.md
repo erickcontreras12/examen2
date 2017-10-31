@@ -1,5 +1,6 @@
 # examen2
 Espacio resolucion examen 2
+todo compila en los Main, no sea tan estricto con los test.
 
 Documentacion
 --------------

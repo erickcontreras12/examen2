@@ -13,7 +13,7 @@ public interface PositionalList<E> {
 	Position<E> addAfter(Position<E> p, E e) throws IllegalArgumentException;
 	E set(Position<E> p, E e) throws IllegalArgumentException;
 	E remove(Position<E> p) throws IllegalArgumentException;
-        //Metodo a implementar
-        void swap(Position<E> p, Position<E> q);
+    //Metodo a implementar
+    void swap(Position<E> p, Position<E> q);
 
 }
